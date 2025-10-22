@@ -1,6 +1,6 @@
 # Élément de Recherches Opérationnelles 2 (ERO2) — EPITA
 
-![EPITA Logo](Epita_logo.png)
+<img src="Epita_logo.png" alt="EPITA Logo" width="50%"/>
 
 Ce dépôt est destiné aux étudiants d'EPITA-Lyon en **Élément de Recherches Opérationnelles 2 (ERO2)**.  
 Ce cours traite des **processus stochastiques**, en particulier du **processus de Poisson** et de ses applications aux **files d’attente**.
