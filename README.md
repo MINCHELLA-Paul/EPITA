@@ -1,4 +1,4 @@
-# Élément de Recherches Opérationnelles 2 (ERO2) — EPITA
+# Élément de Recherches Opérationnelles 2 (ERO2) - EPITA
 
 <p align="center"><img src="Epita_logo.png" alt="EPITA Logo" width="50%"/></p>
 
