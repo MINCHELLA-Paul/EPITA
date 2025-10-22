@@ -10,7 +10,7 @@ Ce cours traite des **processus stochastiques**, en particulier du **processus d
 - Introduction aux processus de Poisson et aux processus de comptage.
 - Lois exponentielles et propriété de mémoire nulle.
 - Processus de naissance et de mort.
-- Files d’attente de type M/M/1, M/M/c et M/M/c/K.
+- Files d’attente de type $M/M/1$, $M/M/c$ et $M/M/c/K$.
 - Équations différentielles de Kolmogorov et états stationnaires.
 
 ### Travaux Pratiques
@@ -20,7 +20,7 @@ NoteBook Python qui comprend :
 
 Le but étant *in fine* de savoir :
   - Simuler un processus de Poisson et ses interarrivées.
-  - Simuler des files M/M/1 et M/M/c/K.
+  - Simuler des files $M/M/1$ et $M/M/c/K$.
   - Comparer les statistiques empiriques et théoriques.
   - Visualiser l’évolution du système (nombre de clients, files, refus, etc.).
 
